@@ -1,0 +1,20 @@
+<resources>
+    //<string name="app_name">Actividad pre-parcial</string>
+    <string-array name="options_array">
+        <item>---Seleccione---</item>
+        <item>Registrar empleado</item>
+        <item>Ver Todos los registros</item>
+        <item>Ver empleado mas joven</item>
+        <item>Ver empleado mas viejo</item>
+        <item>Consultar emplado con salario mas alto</item>
+        <item>Consultar emplado con salario mas bajo</item>
+        <item>Promedio de salarios</item>
+        <item>Numero de personas por cargo y promedio se salario por cargo</item>
+    </string-array>
+    <string-array name="opcion_unique">
+        <item>---Seleccione---</item>
+        <item>Registrar empleado</item>
+    </string-array>
+    <string name="Cargo">Cargo: </string>
+
+</resources>
